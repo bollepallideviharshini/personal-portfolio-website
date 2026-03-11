@@ -46,7 +46,7 @@ Responsive Design
 
 You can view a demo of the project here:
 
-(Add your video link or upload it to GitHub repo and link it)
+file:///C:/Users/bhava/Downloads/Bollepalli%20Devi%20Harshini%20-%20Portfolio.html
 
 🛠️ How to Run Locally
 
