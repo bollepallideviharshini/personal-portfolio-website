@@ -5,7 +5,7 @@ My personal portfolio website showcasing my projects, skills, and development jo
 A modern and responsive personal portfolio website showcasing my projects, skills, and experience.
 Built with clean UI design and optimized for performance.
 
-🔗 Live Demo
+🔗Live Demo
 
 file:///C:/Users/bhava/Downloads/Bollepalli%20Devi%20Harshini%20-%20Portfolio.html
 
